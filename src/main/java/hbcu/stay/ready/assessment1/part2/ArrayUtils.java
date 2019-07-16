@@ -21,8 +21,19 @@ public class ArrayUtils {
      * Given an array of objects, name `objectArray`, and an object `objectToRemove`, return an array of objects with identical contents excluding `objectToRemove`
      */
     public static Object[] removeValue(Object[] objectArray, Object objectToRemove) {
+        /*int ans = 0;
+        for (int i=0; i<objectArray.length;i++){
+            if (i=(int)(objectToRemove)){
+                break;
+            }else{
+
+            }
+
+
+        }
+        return ans;*/
         return null;
-    }
+        }
 
     /**
      * @param objectArray an array of any type of Object

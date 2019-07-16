@@ -9,6 +9,9 @@ public class BasicStringUtils {
      * @return string with identical content, and the first character capitalized
      */
     public static String camelCase(String str) {
+        String[] anArray = str.split("");
+        //return str.substring(0, 1).toUpperCase() + str.substring(2).toUpperCase() +str.substring(2);
+        //return anArray.toString();
         return null;
     }
 
